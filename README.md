@@ -13,4 +13,6 @@
 ---
 
 ### 📊 GitHub Stats
-![Aspandulla's Stats](https://vercel.app)
+### 🛠 Languages I Use Most
+![Top Langs](https://vercel.app)
+
