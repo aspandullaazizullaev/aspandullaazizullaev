@@ -13,6 +13,22 @@
 ---
 
 ### 📊 GitHub Stats
-### 🛠 Languages I Use Most
-![Top Langs](https://vercel.app)
+
+
+<p align="left">
+  <img src="https://herokuapp.com" alt="Typing SVG" />
+</p>
+
+### 📊 My GitHub Statistics
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://vercel.app" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://vercel.app" width="100%"/>
+    </td>
+  </tr>
+</table>
+
 
