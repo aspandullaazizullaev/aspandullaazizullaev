@@ -1,7 +1,7 @@
 # Hi there, I'm Aspandulla! 👋
 
 ### 🚀 About Me
-- 🎮 **Game Developer** focusing on Unity and C#.
+- 🎮 **Learned C# now
 - 🐍 **Python Enthusiast** building creative tools.
 - 🎓 Constantly learning and improving.
 - 🌍 Based in Uzbekistan.
